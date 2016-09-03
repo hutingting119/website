@@ -1,0 +1,30 @@
+.head-navigation{
+    background-color: #ffffff;
+}
+
+.active-header{
+    margin-top: 100px;
+    margin-left: 80px;
+    color: #357ebd;
+    font-style: italic;
+}
+
+.active-plan{
+    margin-top: 15px;
+    margin-left: 80px;
+    font-style: oblique;
+    color: #9d9d9d;
+}
+
+.active-article{
+    margin-left: 80px;
+    margin-top: 15px;
+}
+.avtive-last{
+    margin-top: 20px;
+    background-color: darkslategray;
+    height: 200px;
+    color:darkgrey;
+    padding-top: 50px;
+    padding-left: 80px;
+}
