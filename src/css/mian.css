@@ -1,0 +1,111 @@
+.detail-title{
+    margin-top: 100px;
+    margin-left: 80px;
+    color: #357ebd;
+    font-style: italic;
+}
+
+.detail-data{
+    margin-top: 15px;
+    margin-left: 80px;
+    font-style: oblique;
+    color: #c2ccd1;
+}
+
+.detail-article{
+    margin-left: 80px;
+    margin-top: 15px;
+}
+.about-title{
+    margin-top: 60px;
+    margin-left: 150px;
+    color: olive;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 18px;
+}
+.about-cir{
+    margin-top: 10px;
+    margin-left: 150px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 15px;
+}
+.about-img {
+    margin-top: -20px;
+    margin-left: 70px;
+}
+.about-img1{
+    margin-top: 100px;
+    margin-left: -790px;
+}
+.about-topic1{
+    margin-top: -130px;
+    margin-left: 300px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 18px;
+    color:  olive;
+}
+.about-cir1{
+    margin-top: 10px;
+    margin-left: 300px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 15px;
+}
+.about-topic2{
+    margin-top: 180px;
+    margin-left: 160px;
+    color: olive;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 18px;
+}
+.about-cir2{
+    margin-top: 10px;
+    margin-left: 160px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 15px;
+}
+.about-img2{
+    margin-top: -20px;
+    margin-left: 70px;
+}
+.head-navigation{
+    background-color: #ffffff;
+}
+
+.active-header{
+    margin-top: 100px;
+    margin-left: 80px;
+    color: #357ebd;
+    font-style: italic;
+}
+
+.active-plan{
+    margin-top: 15px;
+    margin-left: 80px;
+    font-style: oblique;
+    color: #9d9d9d;
+}
+
+.active-article{
+    margin-left: 80px;
+    margin-top: 15px;
+}
+
+.main-title{
+    margin-left: 80px;
+}
+.main-qun{
+    margin-top: 80px;
+    margin-left: 200px;
+    margin-right: auto;
+}
+.main-es{
+    margin-top:80px;
+    margin-left: 90px;
+}
+.main-gg{
+    margin-top:80px;
+
+}
+/*.navbar-default .navbar-nav > li > a {*/
+    /*color: #4cae4c;*/
+/*}*/
